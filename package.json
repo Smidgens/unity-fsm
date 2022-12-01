@@ -1,0 +1,20 @@
+{
+	"name":"com.smidgenomics.unity-fsm",
+	"version":"0.1.0",
+	"displayName":"FSM",
+	"description":"Finite state machines",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Smidgens/unity-fsm.git"
+	},
+	"author":{
+		"name":"Unnar Krist",
+		"url":"https://github.com/Smidgens"
+	},
+	"keywords":[
+		"unity-fsm",
+		"finite-state-machine",
+		"fsm",
+		"smidgenomics"
+	]
+}
