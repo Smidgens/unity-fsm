@@ -4,7 +4,7 @@ namespace Smidgenomics.Unity.FSM
 {
 	using System;
 
-	public static partial class Comparable_
+	public static partial class FSM_
 	{
 		/// <summary>
 		/// Clamps comparable type to a given range [min,max]
