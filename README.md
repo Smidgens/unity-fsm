@@ -2,8 +2,6 @@
 
 Finite State Machine library for Unity
 
-[Wiki](https://github.com/Smidgenomics/unity.plugins/wiki/Finite-State-Machines)
-
 <br/>
 
 # 🎯 Goals
