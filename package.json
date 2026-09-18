@@ -17,5 +17,6 @@
     "fsm",
     "smidgenomics"
   ],
-  "unity": "2022.3"
+  "unity": "2022.3",
+  "unityRelease": "62f2"
 }
